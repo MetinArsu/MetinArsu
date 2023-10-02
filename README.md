@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Fullstack Web Developer (MERN)
 -------------------------------------
 
-I am in the final stretch of my Web Developement course (Backend Module) at the Digital Career Institute.
+I am in the final stretch of my Web Developement course at the Digital Career Institute.
 
 * 🌍  I'm based in Hamburg, Germany
 * ✉️  You can contact me at [mmarsu@outlook.de](mailto:mmarsu@outlook.de)
