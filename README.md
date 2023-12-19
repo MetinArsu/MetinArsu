@@ -1,13 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Metin M. Arsu
 =====================================================================================================================================
 
-Junior Fullstack Web Developer (MERN)
+Assistant Teacher Web Development (MERN)
 -------------------------------------
 
-I am in the final stretch of my Web Developement course at the Digital Career Institute.
-
-* 🌍  I'm based in Hamburg, Germany
-* ✉️  You can contact me at [mmarsu@outlook.de](mailto:mmarsu@outlook.de)
 
 ### Skills
 
